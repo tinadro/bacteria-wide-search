@@ -1,2 +1,6 @@
 test/
 Pfl*-db/
+uid-*
+psiblast-nr/*-outfmt*.txt
+psiblast-nr/*-saccver-tax.tsv
+psiblast-nr/*-taxonomy.tsv
